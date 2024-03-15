@@ -19,7 +19,7 @@ const Blog = ({blog, handleAddToBookmark }) => {
                     <span>{reading_time} min read</span>
                     <button 
                         onClick={handleAddToBookmark} 
-                        className='ml-2'
+                        className='ml-2 text-red-600'
                         ><CiBookmark></CiBookmark></button>
                 </div>
             </div>
