@@ -1,0 +1,43 @@
+[
+    {
+      "id": "987654",
+      "cover": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Journey to the Edge of the World",
+      "author": "Jonathan Fields",
+      "author_img": "https://freeimage.host/i/JWrZKvV",
+      "posted_date": "2024-02-20",
+      "reading_time": 7,
+      "hashtag": ["#Programming", "#Algorithm", "#DataStructure"]
+    },
+    {
+      "id": "876543",
+      "cover": "https://images.unsplash.com/photo-1562813733-b31f71025d54?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Shadows Over Mars",
+      "author": "Elena Mirov",
+      "author_img": "https://freeimage.host/i/JWrZcZX",
+      "posted_date": "2024-01-15",
+      "reading_time": 12,
+      "hashtag": ["#Python", "#JavaScript", "#WebDevelopment"]
+    },
+    {
+      "id": "765432",
+      "cover": "https://images.unsplash.com/photo-1555066931-78c471f0d4ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "The Last Code",
+      "author": "Mikhail Santos",
+      "author_img": "https://freeimage.host/i/JWrZww7",
+      "posted_date": "2024-03-10",
+      "reading_time": 9,
+      "hashtag": ["#SoftwareEngineering", "#Java", "#Coding"]
+    },
+    {
+      "id": "654321",
+      "cover": "https://unsplash.com/photos/a-teacher-giving-computer-science-lecture-to-young-students-in-dark-room-room-explaining-information-technology-sG2EggQLl14",
+      "title": "Under the Ocean's Heart",
+      "author": "Sophia Turner",
+      "author_img": "https://freeimage.host/i/JWrZkMu",
+      "posted_date": "2024-02-05",
+      "reading_time": 8,
+      "hashtag": ["#Cplusplus", "#ProgrammingLanguage", "#CodeQuality"]
+    }
+  ]
+  
