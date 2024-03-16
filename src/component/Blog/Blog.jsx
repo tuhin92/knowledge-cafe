@@ -18,7 +18,7 @@ const Blog = ({blog, handleAddToBookmark }) => {
                 <div>
                     <span>{reading_time} min read</span>
                     <button 
-                        onClick={handleAddToBookmark} 
+                        onClick={()=> handleAddToBookmark(blog)} 
                         className='ml-2 text-red-600'
                         ><CiBookmark></CiBookmark></button>
                 </div>
@@ -30,7 +30,8 @@ const Blog = ({blog, handleAddToBookmark }) => {
 };
 
 Blog.propTypes = {
-    blog: PropTypes.object.isRequired
+    blog: PropTypes.object.isRequired,
+    handleAddToBookmark: PropTypes.func
 }
 
 export default Blog;
